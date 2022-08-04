@@ -8,4 +8,18 @@
 body{
     font-family: Lato, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* Logo and heading styles */
+
+h1,h2 {
+  font-family: Merriweather,sans-serif ;
+  letter-spacing: 2px;
+  color: #99772e;
+}
+
+#logo{
+  float: left;
+  font-size:225%;
 }
