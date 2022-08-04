@@ -52,8 +52,10 @@ h1,h2 {
   line-height: 75px;
 }
 
+/* Nav Elements Style */
 #menu a:hover {
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #3a3a3a;
+  background-color: #99772e;
 }
 
 .active{
@@ -61,5 +63,10 @@ h1,h2 {
 }
 
 
+/* hero-image*/
 
-
+#hero-image{
+  height: 600px;
+  width: 100%;
+  background: url('../images/cms-bakery-solutions-sap-global-template-1920x500.webp') no-repeat center center;
+}
