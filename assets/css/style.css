@@ -206,3 +206,25 @@ hr{
  
 
 }
+
+/*FOOTER */
+
+footer{
+  height: 150px;
+  border-top: solid 2px #99772e;
+}
+
+footer ul {
+  text-align: center;
+
+
+}
+footer li{
+  display: inline;
+}
+footer i{
+  font-size: 160%;
+  margin:1%;
+  padding: 5%;
+  color: #99772e;
+}
