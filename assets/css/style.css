@@ -228,3 +228,25 @@ footer i{
   padding: 5%;
   color: #99772e;
 }
+
+
+/* Menu hero image*/
+#hero-outer2{
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+
+}
+
+#hero-image2{
+  height: 600px;
+  width: 100%;
+  background: url('../images/Biscoff\ Cupcakes\ 1_landscape.jpg') no-repeat center center;
+
+  /*Animates zoom effect on loading page*/
+animation-name: hero-zoom;
+animation-duration: 5s;
+animation-fill-mode: forwards;
+}
