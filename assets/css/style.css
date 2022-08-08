@@ -144,6 +144,12 @@ transform: scale(1.1);
     height: 600px;
 
   }
+  #why-us h1{
+    
+    text-align: center;
+    padding-bottom: 3vh;
+   
+  }
 
   #left-about{
     padding-top: 30px;
@@ -160,4 +166,27 @@ transform: scale(1.1);
 #center-about{
   width: 33%;
   margin: 0 auto;
+}
+
+.left-about-heading{
+  width: 60%;
+  float: right;
+  line-height: 3vh;
+  clear:both;
+  margin-bottom: 1vh;
+
+}
+hr{
+  border-top: 1px solid #3a3a3a ;
+  margin :5px 0;
+  width: 100%;
+
+}
+
+.right-about-heading{
+  width: 60%;
+  float: left;
+  line-height: 20px;
+  clear:both;
+  margin-bottom:1vh;
 }
