@@ -315,3 +315,12 @@ animation-fill-mode: forwards;
     width: 100%;
     height: 35vh;
 }
+
+#samples2{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
+ 
+}
