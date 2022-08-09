@@ -289,7 +289,7 @@ animation-fill-mode: forwards;
 
 #contact-us a:hover {
   border-bottom: 1px solid #3a3a3a;
-  background-color: #99772e;
+  background-color: rgb(115, 119, 46 , .7);
 }
 
 /* Sample photos of our products */
@@ -324,3 +324,67 @@ animation-fill-mode: forwards;
   justify-content: space-evenly;
  
 }
+
+
+/*Contact Us page */
+
+/*Hero Image */
+
+/* Menu hero image*/
+#hero-outer3{
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+
+}
+
+#hero-image3{
+  height: 600px;
+  width: 100%;
+  background: url('../images/Fruit\ Scones_Landscape\ 2.jpg') no-repeat center center;
+
+  /*Animates zoom effect on loading page*/
+animation-name: hero-zoom;
+animation-duration: 5s;
+animation-fill-mode: forwards;
+}
+
+/* Contact Form - inspiration taken for w3 schools*/ 
+
+/* Form adapted from w3 schools contact form*/
+
+.contact-form {
+  border-radius: 5px;
+  background-color: rgba(196, 185, 35, 0);
+  padding: 20px;
+  width: 50%;
+  margin: 10% auto;
+}
+
+.text-input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+.submit-button {
+    background-color: gray;
+    color: whitesmoke;
+    padding: 15px ;
+    border: none;
+    border-radius: 4px;
+}
+
+.submit-button:hover {
+    background-color: #99772e;
+}
+
+
