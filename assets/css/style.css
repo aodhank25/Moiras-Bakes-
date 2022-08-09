@@ -372,10 +372,12 @@ textarea {
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical
+    resize: vertical;
+    
+    
 }
 
-.submit-button {
+.submit {
     background-color: gray;
     color: whitesmoke;
     padding: 15px ;
@@ -383,7 +385,7 @@ textarea {
     border-radius: 4px;
 }
 
-.submit-button:hover {
+.submit:hover {
     background-color: #99772e;
 }
 
