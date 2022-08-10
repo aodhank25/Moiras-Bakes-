@@ -172,7 +172,7 @@ transform: scale(1.1);
 
 .left-about-heading{
   width: 60%;
-  float: right;
+  text-align: right;
   line-height: 3vh;
   clear:both;
   margin-bottom: 1vh;
@@ -187,7 +187,7 @@ hr{
 
 .right-about-heading{
   width: 60%;
-  float: left;
+  text-align: left;
   line-height: 20px;
   clear:both;
   margin-bottom:1vh;
