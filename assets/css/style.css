@@ -180,7 +180,7 @@ transform: scale(1.1);
 }
 
 .left-about-heading{
-  width: 60%;
+  
   text-align: right;
   line-height: 3vh;
   clear:both;
@@ -195,7 +195,7 @@ hr{
 }
 
 .right-about-heading{
-  width: 60%;
+
   text-align: left;
   line-height: 20px;
   clear:both;
@@ -215,6 +215,10 @@ hr{
   border-style: groove;
  
 
+}
+
+#left-about,#right-about p{
+  font-size: 120%;
 }
 
 /*FOOTER */
