@@ -390,6 +390,5 @@ textarea {
 }
 
 
-#form_section{
-  padding-top: 10vh;
+#form_section h2 { padding-bottom: 2vh;
 }
