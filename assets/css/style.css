@@ -9,6 +9,7 @@ body{
     font-family: Lato, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    max-width: 1500px;
 }
 
 /* Logo and heading styles */
@@ -421,5 +422,11 @@ textarea {
     padding-top: 5%;
   }
 
+  hr{
+    display: none;
+  }
+
+ 
+  
 }
   
