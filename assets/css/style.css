@@ -130,14 +130,23 @@ transform: scale(1.1);
 #welcome{
   text-align: center;
   font-size: 100%;
-  width:90vw;
-  height: 600px;
+  height: 400px;
   margin-top: 35px;
+  margin: 0 auto;
+  padding-bottom: 70px;
 }
 
 #welcome h2, h3,p {
   padding-top: 20px;}
 
+  #welcome_br{
+    border-bottom: 1px solid #99772e;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    border-top: none;
+  }
 
   /* Why Choose Us */
 
