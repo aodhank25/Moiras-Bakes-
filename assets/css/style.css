@@ -369,6 +369,10 @@ animation-fill-mode: forwards;
 
 /* Form adapted from w3 schools contact form*/
 
+#contact_us_form{
+  max-width: 1000px;
+}
+
 .contact-form {
   border-radius: 5px;
   background-color: rgba(196, 185, 35, 0);
