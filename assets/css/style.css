@@ -389,6 +389,37 @@ textarea {
     background-color: #99772e;
 }
 
+/*Media queries */
 
-#form_section h2 { padding-bottom: 2vh;
+/*For Large and medium screens 1200px wide and down*/
+@media screen and (max-width:1200px){
+  #why-us{
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+  #welcome{
+    padding: 30px 0;
+    margin: 0;
+  }
+
+  #left-about,#right-about{
+    width: 100%;
+    float: left ;
+    padding: 0;
+    padding-top: 5%;
+
+  }
+  
+
+  #center-about{
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0;
+    padding-top: 5%;
+  }
+
 }
+  
