@@ -371,6 +371,8 @@ animation-fill-mode: forwards;
 
 #contact_us_form{
   max-width: 1000px;
+  margin: 0 auto;
+  m
 }
 
 .contact-form {
@@ -443,7 +445,25 @@ textarea {
     display: none;
   }
 
- 
+ /* Menu CSS */
+
+ #samples,#samples2{
+  width: 65%;
+  height: 1200px;
+  margin: 0 auto;
+
+ }
   
+ .menu-item{
+  width: 60%;
+  float: left ;
+  padding: 0;
+  padding-top: 5%;
+
 }
+
+    
+}
+
+/* for medium screens sizes (950 px wide and down) */
   
