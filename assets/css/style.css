@@ -432,6 +432,9 @@ textarea {
 
   }
   
+  .left-about-heading{
+    text-align: left;
+  }
 
   #center-about{
     clear: both;
@@ -476,4 +479,17 @@ textarea {
     margin-bottom: 20px;
     line-height: 25px;
   }
+  #cover-text{
+    left: 0;
+  }
+
+ #samples2{
+  padding-bottom: 15px;
+
+ }
+ .menu-item>img {
+  border-radius: 20px;
+  text-align: center;
+  width: 100%;
+  height: 30vh;}
 }
