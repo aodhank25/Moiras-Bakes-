@@ -80,7 +80,7 @@ h1,h2 {
 #hero-image{
   height: 600px;
   width: 100%;
-  background: url('../images/cms-bakery-solutions-sap-global-template-1920x500.webp') no-repeat center center;
+  background: url('../images/brown-bread.webp') no-repeat center center;
 
   /*Animates zoom effect on loading page*/
 animation-name: hero-zoom;
@@ -141,7 +141,7 @@ transform: scale(1.1);
 #welcome h2, h3,p {
   padding-top: 20px;}
 
-  #welcome_br{
+  #welcome-br{
     border-bottom: 1px solid #99772e;
     width: 15%;
     margin-left: auto;
@@ -354,7 +354,6 @@ animation-fill-mode: forwards;
   width: 100%;
   overflow: hidden;
   position: relative;
-
 
 }
 
