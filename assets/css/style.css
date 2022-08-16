@@ -479,7 +479,6 @@ textarea {
   height: 20vh;}
 }
     
-}
 
 /* for medium screens sizes (950 px wide and down) */
   
@@ -513,6 +512,29 @@ textarea {
 
   .left-about-heading,.right-about-heading{
     font-size: 1.5em;
+
   }
+  
 
 }
+
+/* For small screen sizes from 576px wide and down */
+
+  @media screen and (max-width: 390px) {
+    #menu a {
+      font-size: 80%;
+    
+    }
+  
+    #why-us h1{
+      font-size: 150%;
+    }
+    .left-about-heading,.right-about-heading{
+      font-size: 100%;
+  
+    }
+
+  }
+
+
+
