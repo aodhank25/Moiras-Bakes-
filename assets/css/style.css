@@ -412,6 +412,10 @@ textarea {
     background-color: #99772e;
 }
 
+.contact-form h2 {
+  padding-bottom: 20px;
+}
+
 /*Media queries */
 
 /*For Large and medium screens 1200px wide and down*/
@@ -503,3 +507,12 @@ textarea {
   height: 20vh;}
 }
 
+/* For small screen sizes from 576px wide and down */
+
+@media screen and (max-width: 576px) {
+
+  .left-about-heading,.right-about-heading{
+    font-size: 1.5em;
+  }
+
+}
