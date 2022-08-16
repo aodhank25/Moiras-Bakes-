@@ -468,6 +468,12 @@ textarea {
 
 }
 
+.menu-item>img {
+  border-radius: 20px;
+  text-align: center;
+  width: 100%;
+  height: 20vh;}
+}
     
 }
 
@@ -494,5 +500,6 @@ textarea {
   border-radius: 20px;
   text-align: center;
   width: 100%;
-  height: 30vh;}
+  height: 20vh;}
 }
+
