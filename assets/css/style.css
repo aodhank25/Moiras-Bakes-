@@ -360,7 +360,7 @@ animation-fill-mode: forwards;
 #hero-image3{
   height: 600px;
   width: 100%;
-  background: url('../images/Fruit\ Scones_Landscape\ 2.jpg') no-repeat center center;
+  background: url('../images/Fruit-Scones-Landscape\ 2.jpg') no-repeat center center;
 
   /*Animates zoom effect on loading page*/
 animation-name: hero-zoom;
@@ -513,8 +513,17 @@ textarea {
     font-size: 1.5em;
 
   }
-  
+  #samples, #samples2 {
+    width: 100%;
+    margin: 0 auto;
 
+
+  }
+
+  .contact-form {
+    width:80%;
+
+}
 }
 
 /* For small screen sizes from 576px wide and down */
@@ -533,7 +542,14 @@ textarea {
   
     }
 
+    .contact-form {
+      width:80%;
+
   }
+  #samples, #samples2 {
+    width: 100%;
+    margin: 0 auto;
 
 
-
+  }
+}
