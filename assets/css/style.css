@@ -549,7 +549,8 @@ textarea {
   #samples, #samples2 {
     width: 100%;
     margin: 0 auto;
-
+    height: 1000px;
 
   }
+
 }
