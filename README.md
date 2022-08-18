@@ -158,7 +158,7 @@ In order to run the above process, you will need the following, 
 
     -   No errors were found when passing through the official Jigsaw validator
 
-### Acknowledgements
+## Acknowledgements
 
  - The contact form inspiration was adapted from  [W3 schools contact form](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
