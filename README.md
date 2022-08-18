@@ -68,7 +68,7 @@ The website is split into three pages. You are able to navigate between the page
 
  
 
- 2. **Menu**- This page outlines our guide prices and some ideas of baked goods we could provide. 
+ 2. **Menu**- This page outlines our guide prices and some ideas of baked goods we could provide. The main feature of the page is six beautiful photos of baked goods that have previously been ordered and prepared. This is to draw in the user and entice them to click the "contact us" button above the menu items.
 
  3. **Contact us** - This page allows the potential customer to leave a message directly with Moira and allows her to respond to their requests and queries. 
 
